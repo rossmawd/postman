@@ -68,6 +68,30 @@
           "href": "http://localhost:3000/books/7"
         }
       ]
+    },
+    {
+      "title": "I am not a goat",
+      "author": "James K.A. Smith",
+      "isbn": "1586643380X",
+      "releaseDate": "2016-03-05",
+      "createdAt": "2021-05-09T16:37:47.785Z",
+      "updatedAt": "2021-05-09T16:37:47.785Z",
+      "id": 10,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/10"
+        }
+      ]
+    },
+    {
+      "title": "The brused man",
+      "author": "John Wilks Booth",
+      "isbn": "897588654",
+      "releaseDate": "12/07/1998",
+      "createdAt": "2021-05-12T21:21:46.966Z",
+      "updatedAt": "2021-05-12T21:21:46.966Z",
+      "id": 11
     }
   ],
   "households": [
